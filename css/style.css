@@ -1,0 +1,29 @@
+h1 {
+    background-color: rgb(40, 202, 202);
+}
+
+a {
+    background-color: darkred;
+}
+
+div {
+    /* background-image: url(""); */
+}
+
+div {
+    /* background-color: aquamarine; */
+    width: 200px;
+    height: 200px;
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq7dmmOVwjXaNbWt47D7x0ix4Qrc7NAnE8HVwnHY5MgH1ty9iX_TjxcGsxEjDEIIWGGPJcsKL8ReOq_UT_EtULlDUVu_Z5upi_wCUSZvY&s=10");
+    
+    background-size: contain;
+    background-repeat: repeat-y; */
+    border:1px solid black ;
+    /* background-image: linear-gradient(to bottom, black,blue,green,violet); */
+    /* background-image: linear-gradient(to top, blue,red); */
+    /* background-image: radial-gradient(red,blue,green); */
+    background-image: conic-gradient(red,blue,green);
+
+}
+
+/* https: //encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq7dmmOVwjXaNbWt47D7x0ix4Qrc7NAnE8HVwnHY5MgH1ty9iX_TjxcGsxEjDEIIWGGPJcsKL8ReOq_UT_EtULlDUVu_Z5upi_wCUSZvY&s=10 */

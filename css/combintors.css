@@ -1,0 +1,16 @@
+/* .first p {
+    color: blue;
+}
+     */
+/* .first > p {
+        color: brown;
+     }
+     .first + p {
+        color: blue;
+     } */
+      /* .first + p {
+        color: green;
+      } */
+       .first ~ p {
+        color: yellow;
+       }
